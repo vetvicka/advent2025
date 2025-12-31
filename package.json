@@ -1,0 +1,17 @@
+{
+  "name": "advent2025",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "jest --colors",
+    "test:watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/jest": "^29.5.3",
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.2.2"
+  }
+}
